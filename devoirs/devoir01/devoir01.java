@@ -3,6 +3,9 @@ public class devoir01 {
         
         int monAge = 20;
 
+        //il y a un meilleur choix pour estMajeur: il doit contenir la 
+        //réponse si oui ou non la personne est majeure. Corrigez la variable
+        //et ajustez le code pour faire exactement ce qui est demandé dans la donnée
         int estMajeur = 18;
 
         System.out.println("je m'apelle alexandre");
