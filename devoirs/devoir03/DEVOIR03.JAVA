@@ -20,7 +20,7 @@ public class DEVOIR03 {
                 }
                 jourDELAN += jour;
     }
-    System.out.println("Le " + jour + "/" + mois + "/" + anne + " est le jour " + jourDELAN + " de l'An.");
+    System.out.println("le " + jour + "/" + mois + "/" + anne + " est le jour " + jourDELAN + " de l'An.");
     }
 }
 }
