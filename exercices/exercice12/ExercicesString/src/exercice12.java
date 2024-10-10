@@ -1,5 +1,6 @@
 public class exercice12 {
     public static void main(String[] args) throws Exception {
+        
         String maChaineDeCaractere = "Voici du contenu stocké dans un String";
         System.out.println("Nombre de caractères contenu dans la variable maChaineDeCaractere :" + maChaineDeCaractere.length());
         System.out.println("Le mot contenu commence à la position :" + maChaineDeCaractere.indexOf("contenu"));
