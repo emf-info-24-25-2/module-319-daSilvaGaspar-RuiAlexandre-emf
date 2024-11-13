@@ -32,6 +32,8 @@ public class devoir06 {
         return valeurMax;
     
     }
+
+    //les méthodes sont bonnes... faites celle-ci par analogie! et ajoutez le main
     public static int rechercheValeur(int[] tableau, int valeur) {
         
             return valeur;
