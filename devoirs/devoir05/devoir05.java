@@ -11,6 +11,7 @@ on sort de la boucle et on a gagner.*/
         Scanner scanner = new Scanner(System.in);//ici on a créer un scanneur pour scanner le nombre qu'on vas renter
         System.out.print("Entrez une valeur svp : ");
         int valeur = scanner.nextInt();
+        // RIF: la ligne suivante n'est pas nécessaire
         scanner.nextLine();
 
 
@@ -31,6 +32,7 @@ on sort de la boucle et on a gagner.*/
         }
 
         System.out.println("Bravo, trouvé ! ");//ici on a mit apres la boucle comme sa sa ecrit bravo
+        //RIF: indiquez aussi combien d'essais il a fallu
         scanner.close();//ici on a fermer le scanneur
     }
 }
